@@ -3,6 +3,7 @@
 ![Top Image](https://github.com/zjdavid/MFSCalendar/blob/master/Images/TopImage.png?raw=true)
 
 - Currently working on a PCR QQ Bot with Genres.
+- 日常被自己菜到
 <!--
 **zjdavid/zjdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
